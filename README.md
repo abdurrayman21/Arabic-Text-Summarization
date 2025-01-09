@@ -44,5 +44,3 @@ To set up the environment, install the required dependencies:
 pip install transformers datasets evaluate matplotlib seaborn
 
 
-
-### Usage
